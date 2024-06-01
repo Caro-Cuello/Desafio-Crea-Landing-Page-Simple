@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand:hover{
+    color:rgb(27, 3, 113);
+    cursor:pointer;
+}
+
+
+.title{
+    font-weight: bold;
+    color: rgb(27, 3, 113);
+}
+
+.button-mail{
+    padding: 5px 30px 5px 30px;
+    border: 1px solid rgb(224, 224, 243); 
+   border-radius: 20px;
+}
+
+.button-mail a{
+    color:rgb(27, 3, 113); 
+    font-weight: bold;
+
+}
+
+.button-mail:hover{
+    background-color:rgb(27, 3, 113);
+}
+.button-mail a:hover{
+    color:rgb(224, 224, 243);
+}
+
+.container-color{
+    width: 100%;
+    background-color: rgb(224, 224, 243);
+}
+
+.text-p{
+    text-align: justify;
+    color: gray; 
+}
+
+img {
+    margin-top: 25px;
+}
+
+.logo img{
+    width:95px; 
+}
+
+.btn-git button{
+    cursor: pointer;
+    width: 200px;
+    background-color: #3fa59e;
+    border-radius: 20px;
+}
+.btn-git a{
+   color:#ffff; 
+   font-weight: bold;
+}
+
+.btn-git button:hover{
+    background-color: #ffff;
+    border: 1px solid #3fa59e;
+    border-radius: 20px;
+}
+
+.btn-git a:hover{
+    color: #3fa59e;
+    font-weight: bold;
+}
+.footer{
+    margin: 80px 0 80px 0;
+}
+
+.footer a{
+    color:rgb(64, 21, 219); 
+}
+
+box-icon{
+    margin-bottom: 50px;
+   width: 50px;
+   cursor:pointer;
+}
+
+
+
