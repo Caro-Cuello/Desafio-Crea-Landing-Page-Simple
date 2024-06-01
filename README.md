@@ -12,13 +12,12 @@ Tu tarea consiste en construir una Landing Page siguiendo el diseño de la image
 Presta atención a los detalles de diseño, colores, y disposición de los elementos. Este desafío busca evaluar no solo tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente. ¡Buena suerte!
 
 ## Stack utilizado
-HTML5, CSS3 y BOOTSTRAP5. 
+HTML5, CSS3 y BOOTSTRAP5. 100% Responsive. 
 
 ## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
+![Pagina-Completa](https://github.com/Caro-Cuello/Desafio-Crea-Landing-Page-Simple/assets/122840125/b4546351-72ce-4895-bed6-70a52d652236)
 
-## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
+![Pagina-Responsiva](https://github.com/Caro-Cuello/Desafio-Crea-Landing-Page-Simple/assets/122840125/45826201-43d6-4d4f-99e9-47c0ab8bec1b)
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
