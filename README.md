@@ -17,7 +17,6 @@ HTML5, CSS3 y BOOTSTRAP5. 100% Responsive.
 ## Screenshots y vista previa
 ![Pagina-Completa](https://github.com/Caro-Cuello/Desafio-Crea-Landing-Page-Simple/assets/122840125/b4546351-72ce-4895-bed6-70a52d652236)
 
-![Pagina-Responsiva](https://github.com/Caro-Cuello/Desafio-Crea-Landing-Page-Simple/assets/122840125/45826201-43d6-4d4f-99e9-47c0ab8bec1b)
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
