@@ -45,12 +45,8 @@
     color: gray; 
 }
 
-img {
-    margin-top: 25px;
-}
-
-.logo img{
-    width:95px; 
+.container img {
+    margin-top: 150px;
 }
 
 .btn-git button{
