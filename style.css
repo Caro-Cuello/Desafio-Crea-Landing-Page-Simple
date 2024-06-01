@@ -88,5 +88,17 @@ box-icon{
    cursor:pointer;
 }
 
+/*Mediaquerys*/
+
+@media (max-width: 989px) {
+    .proyectos{
+       margin: -30px 0 -30px 0;
+    }
+    .proyectos p{
+       margin: 0 15px 0 15px;
+    }
+}
+
+
 
 
