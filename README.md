@@ -12,7 +12,7 @@ Tu tarea consiste en construir una Landing Page siguiendo el diseño de la image
 Presta atención a los detalles de diseño, colores, y disposición de los elementos. Este desafío busca evaluar no solo tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente. ¡Buena suerte!
 
 ## Stack utilizado
-Lenguajes, tecnología y frameworks utilizados en el desarrollo
+HTML5, CSS3 y BOOTSTRAP5. 
 
 ## Screenshots y vista previa
 Screenshots o enlace a la vista previa del trabajo finalizado
